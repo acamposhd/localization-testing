@@ -1,0 +1,8 @@
+{
+  "greeting": "Hello World",
+  "other_text": "This is an application with multilanguage",
+  "nested": {
+    "nested_1": "This is a nested text",
+    "nested_2": "This is another nested text"
+  }
+}
